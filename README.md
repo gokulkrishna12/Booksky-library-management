@@ -2,6 +2,9 @@
 
 A simple Book Management Application built using HTML, CSS and JavaScript.
 
+## Live Demo
+
+[Click Here to View Project](https://gokulkrishna12.github.io/Booksky-library-management/)
 ## Features
 
 - Add Books
@@ -14,9 +17,3 @@ A simple Book Management Application built using HTML, CSS and JavaScript.
 - HTML
 - CSS
 - JavaScript
-- Git
-- GitHub
-
-## Author
-
-GokulKrishna
